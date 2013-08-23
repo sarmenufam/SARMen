@@ -1,5 +1,5 @@
 /*
-  Message.cpp - Library for access Messages from GSM Module.
+  Message.h - Library for access Messages from GSM Module.
  Created by Juscelino Tanaka, September 12, 2012.
  All Rights Reserved to J.Tanaka ® juscelinotanaka.com.br
  */
